@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR blue][B]DrxipZ[/B][/COLOR]Wiz'
 BUILDERNAME = 'M0rpheas'
 EXCLUDES = [ADDON_ID, 'repository.DrxipZFlixZ']
 # Text File with build info in it.
-BUILDFILE = 'https://raw.githubusercontent.com/DrxipZFlixZ/BuildFiles/main/BUILD%20FILE/builds.txt?token=GHSAT0AAAAAABWVPI7SIPRFBCOHIS7N2D4QYWS2I7Q'
+BUILDFILE = 'https://raw.githubusercontent.com/DrxipZFlixZ/BuildFiles/main/BUILD%20FILE/builds.txt?token=GHSAT0AAAAAABWVPI7TBRKRCZRCWVFSPXT6YWS2URA'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
